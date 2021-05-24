@@ -6,7 +6,7 @@ import android.content.Context
 class SunnyWeatherApplication : Application() {
 
     companion object {
-         TODO:  const val TOKEN = ""
+        const val TOKEN = "BNBRvBveaD2VfHVI"
         lateinit var context: Context
     }
 
